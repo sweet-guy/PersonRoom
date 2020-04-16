@@ -1,0 +1,2 @@
+include ':app', ':picture_library', ':ucrop', ':easynavigation', ':photolibrary', ':calendarview'
+rootProject.name='PersonRoom'
